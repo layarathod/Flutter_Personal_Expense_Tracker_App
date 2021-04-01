@@ -1,6 +1,6 @@
 # PERSONAL_EXPENSES_APP
 
-A new Flutter project.
+This is a simple flutter based application which allows you to keep a track of your daily expenses. You can simply add the item and description along with the cost and the app will keep it stored for the particular day. You can make better estimates of your expenditure through this app.
 
 ## Getting Started
 
